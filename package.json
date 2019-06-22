@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "license": "MIT",
   "author": "Conjunctive",
-  "homepage" : "https://conjunctive.github.io/tender-buttons",
+  "homepage": "https://conjunctive.github.io/tender-buttons",
   "repository": {
     "type": "git",
     "url": "git://github.com/conjunctive/tender-buttons.git"
   },
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "include-media": "^1.4.9",
     "node-sass": "^4.12.0",
     "partial.lenses": "^14.17.0",
@@ -22,7 +23,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
