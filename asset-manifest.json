@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tender-buttons/static/css/main.fea14afc.chunk.css",
+    "main.js": "/tender-buttons/static/js/main.5ae06540.chunk.js",
+    "main.js.map": "/tender-buttons/static/js/main.5ae06540.chunk.js.map",
+    "runtime~main.js": "/tender-buttons/static/js/runtime~main.0842621b.js",
+    "runtime~main.js.map": "/tender-buttons/static/js/runtime~main.0842621b.js.map",
+    "static/js/2.bc8259ec.chunk.js": "/tender-buttons/static/js/2.bc8259ec.chunk.js",
+    "static/js/2.bc8259ec.chunk.js.map": "/tender-buttons/static/js/2.bc8259ec.chunk.js.map",
+    "index.html": "/tender-buttons/index.html",
+    "precache-manifest.3a56291d147144b64968b3a62aaaa4e6.js": "/tender-buttons/precache-manifest.3a56291d147144b64968b3a62aaaa4e6.js",
+    "service-worker.js": "/tender-buttons/service-worker.js",
+    "static/css/main.fea14afc.chunk.css.map": "/tender-buttons/static/css/main.fea14afc.chunk.css.map"
+  }
+}
